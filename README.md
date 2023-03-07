@@ -1,1 +1,1 @@
-# nft
+# Off-chain metadata store for NFTs
